@@ -1,7 +1,7 @@
-<img src="#" width="300" >
-# tomatoDetectionDeep
+<img src="https://github.com/toledoangel/tomatoDetectionDeep/blob/e52a7e88ca27fb2c9cf879c1dc0ecd71c482f0b7/imagesREADME/Logotipo%20condensado.png" width="150" >
+# WeedtomatoDetection
+
 Automatic tomato weed detection and classification system using convolutional neural networks and deep learning.
-![results2](https://github.com/toledoangel/tomatoDetectionDeep/blob/855057758a473189b650a62f2fc04994fa484f04/imagesREADME/Logotipo%20condensado.png)
 
 
 
