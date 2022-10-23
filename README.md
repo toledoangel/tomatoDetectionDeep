@@ -6,7 +6,7 @@ Automatic tomato weed detection and classification system using convolutional ne
 
 
 ## Context
-
+Holi hice push
 Weed detection in tomato crops (Weedetec Tomato) is a project that was carried out during my intership at the Centro de Automática y Robótica del Consejo Superior de Investigaciones Científicas (CAR-CSIC) in Madrid, Spain. The objective is to incorporate an intelligent weed detection system to the herbicide application for a precise application based on the real needs of the field. 
 
 ## Resumen
